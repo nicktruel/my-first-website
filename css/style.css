@@ -4,14 +4,14 @@ body {
     font-family: 'oswalt' , sans-serif;
 }
 
-nav ul {
+nav ul 
+{
     list-style: none;
     background-color: #4a4a4f;
     text-align: center;
     margin: 0;
     padding: 0;
 }
-
 nav li {
     font-size: 1.2em;
     line-height: 40px;
