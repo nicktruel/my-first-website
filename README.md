@@ -1,14 +1,7 @@
-<<<<<<< HEAD
 <h1 style="text-align:center"> My Very First Web Page 3</h1>
 
 
 <h2 style="text-align:center">Welcome</h2>
-=======
-<h1> My Very First Web Page 2</h1>
-
-
-<h2>Welcome</h2>
->>>>>>> 0a3d71ba69f5bd688cb16b420244c78855a65bfb
 
 ![alt text](https://images.unsplash.com/photo-1518775005910-7aa25aa9614a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f98dec0a90f164b534bda2ddffc26eac&auto=format&fit=crop&w=1666&q=80)
 ___
