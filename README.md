@@ -1,4 +1,4 @@
-<h1 style="text-align:center"> My Very First Web Page 3</h1>
+<h1 style="text-align:center"> My Very First Web Page</h1>
 
 
 <h2 style="text-align:center">Welcome</h2>
